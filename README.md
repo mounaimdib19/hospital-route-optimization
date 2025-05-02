@@ -1,7 +1,7 @@
 # hospital-route-optimization
 
 
-# README: Healthcare System Optimization - Ambulance Route Optimization in Algiers
+# Healthcare System Optimization - Ambulance Route Optimization in Algiers
 
 ## Project Overview
 This project aims to optimize ambulance routes, patient transfers, and emergency response times in Algiers using graph search algorithms. The system leverages uninformed, informed, and local search algorithms to find the most efficient route to a hospital or clinic based on the patient's medical needs.
